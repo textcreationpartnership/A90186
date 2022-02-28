@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquesse of Ormonds proclamation concerning the peace concluded with the Irish rebells, by the Kings command, at the Generall Assembly at Kilkenney; with a speech delivered by Sir Richard Blake, Speaker of the Assembly at Kilkenney. Also a speech by the Marquesse of Ormond in answer to the same. Together with a perfect list of their severall numbers of horse and foot by them raised, amounting to 20000. foot, and 3500. horse. Imprimatur. Gilbert Mabbott.</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90186</idno>
+            <idno type="STC">Wing O458</idno>
+            <idno type="STC">Thomason E545_12</idno>
+            <idno type="STC">ESTC R203069</idno>
+            <idno type="EEBO-CITATION">99863155</idno>
+            <idno type="PROQUEST">99863155</idno>
+            <idno type="VID">115339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E545[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquesse of Ormonds proclamation concerning the peace concluded with the Irish rebells, by the Kings command, at the Generall Assembly at Kilkenney; with a speech delivered by Sir Richard Blake, Speaker of the Assembly at Kilkenney. Also a speech by the Marquesse of Ormond in answer to the same. Together with a perfect list of their severall numbers of horse and foot by them raised, amounting to 20000. foot, and 3500. horse. Imprimatur. Gilbert Mabbott.</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Blake, Richard, Sir, d. 1663.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton, and John Playford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 27. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115339:1" rendition="simple:additions"/>
+            <p>THE Marqueſſe of Ormonds PROCLAMATION Concerning the Peace concluded with the Iriſh Rebells, <hi>By the</hi> KINGS <hi>Command,</hi> At the Generall Aſſembly at <hi>KILKENNEY;</hi> WITH A Speech delivered by Sir <hi>Richard Blake,</hi> Speaker of the Aſſembly at Kilkenney.</p>
+            <p>Alſo a Speech by the <hi>Marqueſſe of Ormond</hi> in anſwer to the ſame.</p>
+            <p>Together with a perfect Liſt of their ſeverall Numbers of Horſe and Foot by them raiſed, amounting to 20000. Foot, and 3500. Horſe.</p>
+            <p>Imprimatur. <hi>Gilbert Mabbott.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Tyton,</hi> and <hi>John Playford.</hi> Febr. 27. 1649.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:115339:2"/>
+            <pb n="1" facs="tcp:115339:2"/>
+            <head>Carolus Rex.</head>
+            <head type="sub">By the Lord Lievtenant Generall, and Generall Governour of Ireland.</head>
+            <opener>
+               <salute>Ormond.</salute>
+            </opener>
+            <p>WHereas Articles of Peace are made, concluded, accorded and agreed up<g ref="char:EOLhyphen"/>on by and between Us JAMES Lord
+<pb n="2" facs="tcp:115339:3"/>Marqueſſe of Ormond, Lord Lievtenant-Gene<g ref="char:EOLhyphen"/>rall, and Generall Governor of his Majeſties Kingdom of Ireland, by vertue of the authority wherwith We are intruſted, for, and in the behalf of his moſt excellent Majeſty of the one part, and the generall Aſſembly of the Roman Catho<g ref="char:EOLhyphen"/>likes of the ſaid Kingdome, for and on the be<g ref="char:EOLhyphen"/>half of his Majeſties Roman Catholike Subjects of the ſame on the other part, a true copie of which Articles of Peace is hereunto annexed.</p>
+            <p>We the Lord Lievtenant; doe by this Procla<g ref="char:EOLhyphen"/>mation in his Majeſties Name publiſh the ſame, and do in his Maieſties Name ſtrictly charge and command all his Maieſties Subiects, and all o<g ref="char:EOLhyphen"/>ther inhabiting or reſiding within his Maieſties ſaid Kingdom of Ireland to take notice thereof, and to render due obedience to the ſame in all parts thereof.</p>
+            <p>And as his Maieſty hath been induced to this peace out of a deep ſenſe of the miſeries and cala<g ref="char:EOLhyphen"/>mities brought upon this his Kingdom and peo<g ref="char:EOLhyphen"/>ple, and out of a hope conceived by his Maieſty, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat it may prevent the further effuſion of his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubiects blood, redeem them out of all the mi<g ref="char:EOLhyphen"/>ſeries
+<pb n="2" facs="tcp:115339:3"/>and calamities under which they now ſuffer, and reſtore them to all quiet<g ref="char:EOLhyphen"/>neſſe and happineſſe under his Maieſties moſt gracious government, deliver the Kingdome in generall from thoſe ſlaugh<g ref="char:EOLhyphen"/>ters, depredations, rapines and ſpoiles which alwaies accompany a war, incou<g ref="char:EOLhyphen"/>rage the Subiects and others with com<g ref="char:EOLhyphen"/>fort to betake themſelves to trade, traf<g ref="char:EOLhyphen"/>fique, commerce, manufacture, and all o<g ref="char:EOLhyphen"/>ther things; which uninterrupted, may in<g ref="char:EOLhyphen"/>creaſe the wealth and ſtrength of the Kingdome, beget in all his Maieſties Sub<g ref="char:EOLhyphen"/>iects of this Kingdome a perfect unity a<g ref="char:EOLhyphen"/>mongſt themſelves, after the too long con<g ref="char:EOLhyphen"/>tinued diviſion amongſt them; ſo his Ma<g ref="char:EOLhyphen"/>ieſty aſſures himſelfe that all his Subiects of this his Kingdome (duly conſidering the great and ineſtimable benefits which they may finde in this peace) will with all duty render due obedience thereunto. And wee in his Maieſties Name do hereby de<g ref="char:EOLhyphen"/>clare, that all perſons rendring due obedi<g ref="char:EOLhyphen"/>ence to the ſaid peace, ſhall bee pro<g ref="char:EOLhyphen"/>tected,
+<pb n="6" facs="tcp:115339:4"/>cheriſhed, countenanced and ſup<g ref="char:EOLhyphen"/>ported by his Maieſty and his royall Au<g ref="char:EOLhyphen"/>thority, according to the true intent and meaning of the ſaid Articles of Peace.</p>
+            <closer>
+               <dateline>Given at our Caſtle of Kilkenny <date>the 17. of January 1648.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="5" facs="tcp:115339:4"/>
+            <head>The Speech of Sir <hi>Richard Blake,</hi> Speaker of the Aſſembly at <hi>Kilkenny,</hi> TO THE Marqueſſe of <hi>ORMOND.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>I Am commanded by the Prelacy, Nobi<g ref="char:EOLhyphen"/>lity, and Gentry, of the Roman Catho<g ref="char:EOLhyphen"/>likes of Ireland, now aſſembled in the City of Kilkenny to repreſent unto your Excellency their ardent zeale naturally in<g ref="char:EOLhyphen"/>grafted in their hearts to their ſacred Sove<g ref="char:EOLhyphen"/>raigne King CHARLS his ſervice, unto whom they ever have been, and will be moſt faithfull and loyall Subjects; and in the next place their great affection to your Excellency, and the never dying memory
+<pb n="6" facs="tcp:115339:5"/>they entertaine, and will retaine of your moſt noble and ſucceſſefull indeavours in the ioynting and ſetting together of the much diſordered frame of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Former Ceſſations, accommodations, and capitulations did but skin over the deep and wide wounds that were and are in the body of it; they received no life or perfection, they abortively periſhed in the Embrion, and vaniſhed into the aire, but the peace that by the great mercy of God, by the influences of his Maieſties graces, and by the miniſtery and co-operation of your Excellency is now to be eſtabliſhed, will prove (as with ioy and confidence we expect) a firm, ſtable, and laſting peace, a peace that wil cure theſe bleeding wounds, ſearch to the very core, and pluck out all the ſplinters that remaine of them; a peace that will (as we hope, and is the height of our deſires, as it ſhall be of our indeavors) reinveſt his ſacred Maieſty in his moſt due and royall Rights and Prerogatives, and will reſtore this Nation in its former luſtre
+<pb n="9" facs="tcp:115339:5"/>and plenty and tranquility, ſuch a Peace as already ends all our doubts, fears and jealouſies, in a mutual confidence, and rejoycing, and will make all the Mem<g ref="char:EOLhyphen"/>bers of this general Aſſembly, an Aſſembly unto which the preſent and future ages will juſtly give the glorious name of the peace-making Aſſembly after their many diſtractions and long continued ſuffer<g ref="char:EOLhyphen"/>ings to return to their ſeveral reſpective Countries &amp; dwellings, with olive branches, the Emblems of Peace in their hands, and the Word in their mouths, that were ſaid of our Saviour, when upon the entrance in<g ref="char:EOLhyphen"/>to the City of <hi>Nani,</hi> he meets with a Funeral of a dead young man, the only ſon of his following weep<g ref="char:EOLhyphen"/>ing mother, whom graciouſly compaſſionating her tears, he reſtored from death ro life, the words were, and not unaptly to be applyed to our preſent condi-<hi>Ecce propheta magnus ſurrexit in nobis &amp; quiea deus reci<g ref="char:EOLhyphen"/>tavit plebem ſuam,</hi> Moſt excellent Lord, whom God Almighty hath preſerved, and led, as it were, by the hand through a ſea of troubles and dangers, to be the happy and eſſential inſtrument to mediate, actuate and conſumate this great work, and to make <hi>Ireland</hi> like the heavenly <hi>Jeruſalem</hi> to be a City of Unity within it ſelf.</p>
+            <p>
+               <hi>I</hi> cannot ſufficiently expreſs the ſence and joyous exultancy of theſe moſt venerable Prelates, moſt ho<g ref="char:EOLhyphen"/>norable Lords, moſt judicious and gallant Gentry, the Repreſentative body of the Roman Catholiques of this Kingdom, nor with what fervor and ardor they expect to reap the bleſſed fruits, which they have ſo long ſighed for, and did ſow in their blood and tears of this Peace, and of your Excellencies Government
+<pb n="10" facs="tcp:115339:6"/>of this Kingdom, unto which being derived from his Majeſty, who is the Spring from which theſe graces flow upon them.</p>
+            <p>They will humbly pay all due obedience to your Ex<g ref="char:EOLhyphen"/>cellencies faſt and tried fidelity to his Majeſty, your own great intereſt in the Kingdom, and the many great parts and talents that God and Nature hath en<g ref="char:EOLhyphen"/>dowed you with, giving them aſſurance that your go<g ref="char:EOLhyphen"/>vernment will produce effects ſuitable to their expect<g ref="char:EOLhyphen"/>ations, that will anſwer their deſigne: it much tran<g ref="char:EOLhyphen"/>ſcends my weak abilities-to repreſent them, their af<g ref="char:EOLhyphen"/>fections, apprehensions and hopes, in their right and lively colours: And therefore <hi>I</hi> humbly beg, that your Excellency will vouchſafe to give as benign and fa<g ref="char:EOLhyphen"/>vorable interpretations of what by their command <hi>I</hi> have endeavored humbly to offer to your grave Judg<g ref="char:EOLunhyphen"/>ment and Conſideration; and that your Excellency will be pleaſed to ſigne this inſtrument the everlaſt<g ref="char:EOLhyphen"/>ing Record and Monument of this bleſſed Peace, as by their commands, it having been ſolemnly and uni<g ref="char:EOLhyphen"/>mouſly by ſo valued; <hi>I</hi> have the honor (a greater ho<g ref="char:EOLhyphen"/>nor then my low and humble thoughts ever aſpired to) in their Chair to ſigne this counterpart, and in all their names moſt humbly to preſent it unto your Ex<g ref="char:EOLhyphen"/>cellency.</p>
+         </div>
+         <div type="response_speech">
+            <pb n="11" facs="tcp:115339:6"/>
+            <head>The L. Marquis of <hi>Ormonds</hi> Speech in Anſwer to the Speech of Sir <hi>Rich<g ref="char:EOLhyphen"/>ard Blake</hi> at the Aſſembly in <hi>Kil<g ref="char:EOLhyphen"/>kenney.</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>I Shall not ſpeak to thoſe Epreſſions of du<g ref="char:EOLhyphen"/>ty and loyalty, ſo eloquently digeſted in<g ref="char:EOLhyphen"/>to a diſcourſe by the Gentleman appoin<g ref="char:EOLhyphen"/>ted by you to deliver your Sence: you will have in your hands preſently greater and more ſolid Arguments of his Majeſties gracious ac<g ref="char:EOLhyphen"/>ceptance, then I can enumerate, or then per<g ref="char:EOLhyphen"/>haps you your ſelves diſcern: for beſides the proviſion made againſt the remoteſt fears of the ſeverity of certain Laws, and beſides ma<g ref="char:EOLhyphen"/>ny other Freedoms and bounties conveyed to you and your poſterity by theſe Articles, there is a doore, and that a large one, not left, but expreſly ſet open, to give you entrance by your future merits to whatſoever of honor, or other advantages you can reaſonably wiſh; ſo that you have in preſent fruition what may abundantly ſatisfie, and yet there are no bounds ſet to your hopes, but you are rathr
+<pb n="12" facs="tcp:115339:7"/>invited, or according to the new phraſe, but to an old and better purpoſe; you ſeem to have a Call from heaven to excerciſe your Arms, and your utmoſt in the nobleſt and juſteſt Cauſe the world hath known; for let all the circumſtances, incident to a great and good cauſe of War, be examined, and they will be found in that which you are now warrantably called to defend. Religion, not in that narrow circumſcribed definition of it, by this or that late found out names, but chri<g ref="char:EOLhyphen"/>ſtian Religion is our Quarrel, which certainly is more fatally ſtruck at by the blaſphemous licenſe of this age, then ever it was by the rudeſt incurſions of the moſt barbarous and avow'd Enemies to Chriſtianity. The vener<g ref="char:EOLhyphen"/>able Laws and Fundamental Conſtitutions of our Anceſtors are troden under impious and (for the moſt part) mechanick feet. The ſacred perſon of our King, the life of thoſe Laws and head of thoſe Conſtitutions, is under an ignominious impriſonment, and his life threatened to be taken away by the ſacrilegi<g ref="char:EOLhyphen"/>ous hands of the baſeſt of the people that owe hsm obedience, and to endear the Quarrel to
+<pb n="13" facs="tcp:115339:7"/>you, the fountain of all the benefits you have but now acknowledged, and of what you may further hope for by this Peace, and your own merits, is in danger to be obſtructed by the execrable murther of the worthieſt Prince that ever ruled theſe Iſlands. In ſhort, Hell can add nothing to that deſperate miſchief, now openly projected. And now judg if a greater, a more glorious field, was ever ſet o<g ref="char:EOLhyphen"/>pen to action, and then prepare your ſelves to enter into it, and receive theſe few advices from one throughly embarqued with you in the adventure.</p>
+            <p>Firſt, Let me recommend unto you, that to this, as to all other holy actions, you would prepare your ſelves with perfect charity, a cha<g ref="char:EOLhyphen"/>rity that may obliterate whatever of rancor a long continued civil War may have contract<g ref="char:EOLhyphen"/>ed in you, againſt any that ſhal now co-ope<g ref="char:EOLhyphen"/>rate with you to ſo bleſſed a work, and let his engagements with you in this, whoſoever he be, be as it ought to be, a bond of unity, of concord, of love, ſtronger then the neereſt ties of nature.</p>
+            <p>In the next place, mark and beware of thoſe
+<pb n="14" facs="tcp:115339:8"/>that ſhall go about to renew or create jealou<g ref="char:EOLhyphen"/>ſies in you, vnder what petence ſoever, and ac<g ref="char:EOLhyphen"/>count ſuch as infernal Miniſters, imployed to promote the black deſign on foot, to ſubvert Monarchy, and to make us all ſlaves to thoſe that are ſo to their own avaratious luſts. A<g ref="char:EOLhyphen"/>way as ſoon, and as much as poſſible may be, with thoſe diſtinctions of Nations, and of parties, which are the fields wherein the ſeeds of thoſe rank weeds are ſown by the great enemies of our Peace.</p>
+            <p>In the laſt place let us all diveſt our ſelves of that prepoſterous, that ridiculous ambiti<g ref="char:EOLhyphen"/>on, and ſelf-intereſt, which rather leads to our threatned ruine, then to the enjoyment of advantages unſeaſonably deſired: And if at any time you ſhall think your ſelves pincht too neer the bone, by thoſe Taxes and Levies that may be impoſed for your de<g ref="char:EOLhyphen"/>fence; conſider then how vain, how fooliſh a thing it will be, to ſtarve a righteous Cauſe for want of neceſſary ſupport, to preſerve your ſelves fat, and guilded ſacrifices to the rapine of a mercileſs enemy: And if we come thus prepared to a contention ſo juſt
+<pb n="15" facs="tcp:115339:8"/>on our part, God will bleſs our endeavours with ſucceſs and victory, or will crown our ſufferings with honor and patience; for what honor will it not be (if God have ſo determined of us) to periſh with a long glo<g ref="char:EOLhyphen"/>rious Monarchy? Or who can want pati<g ref="char:EOLhyphen"/>ence to ſuffer with an oppreſt Prince? But as our endeavors, ſo let our prayers be vigor<g ref="char:EOLhyphen"/>ous, that they may be delivered from a more unnatural rebellion then is mentioned by any ſtory, now raiſed to the higheſt pitch of ſucceſs againſt them.</p>
+            <p>I ſhould ſay ſomething to you for my ſelf, in retribution to the advantageous men<g ref="char:EOLhyphen"/>tion made of me, and my endeavors to bring this Settlement to paſs, but I confeſs my thoughts were wholy taken up with theſe much greater concernments; let it ſuffice, that as I wiſh to be continued in your good eſteem and affection, ſo I ſhall freely adven<g ref="char:EOLhyphen"/>ture upon any hazard, and eſteem no trouble or difficulty too great to encounter, if I may manifeſt my zeal to this cauſe, and diſcharge ſome part of the obligations that are upon me to ſerve this Kingdom.</p>
+         </div>
+         <div type="chart">
+            <pb n="16" facs="tcp:115339:9"/>
+            <head>The Engagement of the ſeveral Parties in <hi>Ireland</hi> included in the late Peace made betwixt the Marqueſs of <hi>Or<g ref="char:EOLhyphen"/>mond</hi> and the Rebels.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> .</cell>
+                     <cell role="label">
+                        <hi>Foot.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Horſe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ORmond, Taffe,</hi> and that party engaged to raiſe for Munſter</cell>
+                     <cell>4000.</cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>The Supream Councel, and <hi>Preſton,</hi> for Lemſter</cell>
+                     <cell>4000.</cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Inchequeen</hi>
+                     </cell>
+                     <cell>3000.</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>The Lord <hi>Clanrickard</hi> for <hi>Connaght</hi> hath engaged not to be behind with the beſt of them, at leaſt</cell>
+                     <cell>4000.</cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">15000.</cell>
+                     <cell role="total">3000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Owen Roe</hi> is certainly upon a deſign of conjunction with them, the Marqueſſe of <hi>Antrim</hi> being (about the 17 of this inſtant) up on his journey to <hi>Kilkenny</hi> to work a Reconciliation betwixt the <hi>Kil<g ref="char:EOLhyphen"/>kenney</hi> party, and the ſaid <hi>Owen Roes</hi> party, whoſe number by generall computation cannot be leſſe then, 5000. Foot, and 500. Horſe.</cell>
+                     <cell>5000.</cell>
+                     <cell>500</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all</cell>
+                     <cell role="total">20000.</cell>
+                     <cell role="total">2500</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
